@@ -1,0 +1,3 @@
+January 28, 2023:
+
+I just setup initial files, installed vscode and learned the basics of how to use it.
